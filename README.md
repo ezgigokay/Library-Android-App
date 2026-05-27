@@ -1,4 +1,4 @@
-# 📚 Library App – Android
+# Library App – Android
 
 A personal book tracking app built with modern Android development practices. Users can add, edit, delete, and sort books from a persistent local database.
 
@@ -6,11 +6,11 @@ A personal book tracking app built with modern Android development practices. Us
 
 ## Features
 
-- 📖 View all books in a scrollable list
-- ➕ Add new books (title, author, publication year)
-- ✏️ Edit existing book details
-- 🗑️ Delete books with a confirmation dialog
-- 🔃 Sort books by ID, title, author, or publication year
+- View all books in a scrollable list
+- Add new books (title, author, publication year)
+- Edit existing book details
+- Delete books with a confirmation dialog
+- Sort books by ID, title, author, or publication year
 
 ---
 
