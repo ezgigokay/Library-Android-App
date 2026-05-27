@@ -17,7 +17,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 
 @RunWith(AndroidJUnit4::class)
-internal class BookDaoTest {
+internal class BookDaoInstrumentedTest {
     private lateinit var db: BooksDB
     private lateinit var dao: BookDAO
 
